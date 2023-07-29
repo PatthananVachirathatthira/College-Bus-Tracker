@@ -7,6 +7,7 @@ import { User, onAuthStateChanged } from 'firebase/auth';
 import LoginScreen from './LoginScreen';
 import SetHomeLocation from './SetHome';
 import BusList from './BusList';
+import RouteMap from './RouteMap';
 import { auth } from '../firebase';
 
 const Stack = createStackNavigator();
@@ -17,6 +18,7 @@ function LoggedLayout() {
     <LoggedStack.Navigator>
       <Stack.Screen name="SetHome" component={SetHomeLocation} />
       <Stack.Screen name="BusList" component={BusList} />
+      <Stack.Screen name="RouteMap" component={RouteMap} />
     </LoggedStack.Navigator>
   )
 }

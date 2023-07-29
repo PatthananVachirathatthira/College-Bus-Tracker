@@ -1,11 +1,14 @@
 import React, { useState } from 'react';
 import { View, StyleSheet, Text, ScrollView } from 'react-native';
 import { Searchbar, Card } from 'react-native-paper';
+import { useRoute, useNavigation } from '@react-navigation/native';
 
-// Assuming you have the bus data in the following format:
-import buses from '../data/bus.json'
+// Sample data for buses
+import buses from '../data/bus.json';
 
-const BusList = ({ route }) => {
+const BusList = () => {
+  const route = useRoute();
+  const navigation = useNavigation();
   const { selectedLocation } = route.params;
   const [searchQuery, setSearchQuery] = useState('');
 
@@ -17,19 +20,20 @@ const BusList = ({ route }) => {
       bus.routes.includes(selectedLocation)
   );
 
-  // Filter buses based on search query
-  const searchedBuses = filteredBuses.filter(
-    (bus) =>
-      bus.busNumber.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      bus.startPoint.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      bus.endPoint.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      bus.routes.some((route) =>
-        route.toLowerCase().includes(searchQuery.toLowerCase())
-      )
+  // Filter buses based on bus number and location queries
+  const searchedBuses = filteredBuses.filter((bus) =>
+    bus.busNumber.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    bus.startPoint.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    bus.endPoint.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    bus.routes.some((route) => route.toLowerCase().includes(searchQuery.toLowerCase()))
   );
 
   const handleSearch = (query) => {
     setSearchQuery(query);
+  };
+
+  const handleCardClick = (routes) => {
+    navigation.navigate('RouteMap', { routes: routes });
   };
 
   return (
@@ -37,14 +41,18 @@ const BusList = ({ route }) => {
       <Text style={styles.title}>Bus List for {selectedLocation}</Text>
       <Searchbar
         placeholder="Search bus number or location"
-        onChangeText={(handleSearch)}
+        onChangeText={handleSearch}
         value={searchQuery}
         style={styles.searchBar}
       />
       <ScrollView>
         {searchedBuses.length > 0 ? (
           searchedBuses.map((bus) => (
-            <Card key={bus.busNumber} style={styles.busItem}>
+            <Card
+              key={bus.busNumber}
+              style={styles.busItem}
+              onPress={() => handleCardClick(bus.routes)}
+            >
               <Card.Title title={bus.busNumber} />
               <Card.Content>
                 <Text>Start Point: {bus.startPoint}</Text>
