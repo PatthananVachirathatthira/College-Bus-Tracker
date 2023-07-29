@@ -1,0 +1,283 @@
+[
+    {
+      "busNumber": "B123",
+      "startPoint": "Semmancheri",
+      "endPoint": "Chennai Central Station",
+      "routes": [
+        "Velachery",
+        "Guindy",
+        "Teynampet",
+        "Egmore",
+        "Park Town"
+      ]
+    },
+    {
+      "busNumber": "C456",
+      "startPoint": "Semmancheri",
+      "endPoint": "Anna Nagar",
+      "routes": [
+        "Thiruvanmiyur",
+        "Tidel Park",
+        "Saidapet",
+        "Koyambedu",
+        "Shenoy Nagar"
+      ]
+    },
+    {
+      "busNumber": "D789",
+      "startPoint": "Semmancheri",
+      "endPoint": "Vadapalani",
+      "routes": [
+        "Perungalathur",
+        "Guindy",
+        "Kathipara",
+        "Ashok Pillar",
+        "Vadapalani"
+      ]
+    },
+    {
+      "busNumber": "E987",
+      "startPoint": "Semmancheri",
+      "endPoint": "Mogappair",
+      "routes": [
+        "Thoraipakkam",
+        "Perungudi",
+        "Madipakkam",
+        "Koyambedu",
+        "Mogappair"
+      ]
+    },
+    {
+      "busNumber": "F234",
+      "startPoint": "Semmancheri",
+      "endPoint": "Koyambedu",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Medavakkam",
+        "Velachery",
+        "Koyambedu"
+      ]
+    },
+    {
+      "busNumber": "G567",
+      "startPoint": "Semmancheri",
+      "endPoint": "Chrompet",
+      "routes": [
+        "Perumbakkam",
+        "Medavakkam",
+        "Pallikaranai",
+        "Tambaram",
+        "Chrompet"
+      ]
+    },
+    {
+      "busNumber": "H890",
+      "startPoint": "Semmancheri",
+      "endPoint": "T. Nagar",
+      "routes": [
+        "Sholinganallur",
+        "Perungudi",
+        "OMR",
+        "Adyar",
+        "T. Nagar"
+      ]
+    },
+    {
+      "busNumber": "I123",
+      "startPoint": "Semmancheri",
+      "endPoint": "Porur",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "Taramani",
+        "Porur"
+      ]
+    },
+    {
+      "busNumber": "J456",
+      "startPoint": "Semmancheri",
+      "endPoint": "Thiruvanmiyur",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Thiruvanmiyur"
+      ]
+    },
+    {
+      "busNumber": "K789",
+      "startPoint": "Semmancheri",
+      "endPoint": "Adyar",
+      "routes": [
+        "Sholinganallur",
+        "Perungudi",
+        "OMR",
+        "Thiruvanmiyur",
+        "Adyar"
+      ]
+    },
+    {
+      "busNumber": "L987",
+      "startPoint": "Semmancheri",
+      "endPoint": "Velachery",
+      "routes": [
+        "Sholinganallur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery"
+      ]
+    },
+    {
+      "busNumber": "M234",
+      "startPoint": "Semmancheri",
+      "endPoint": "Guindy",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Guindy"
+      ]
+    },
+    {
+      "busNumber": "N567",
+      "startPoint": "Semmancheri",
+      "endPoint": "Teynampet",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Teynampet"
+      ]
+    },
+    {
+      "busNumber": "O890",
+      "startPoint": "Semmancheri",
+      "endPoint": "Egmore",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Guindy",
+        "Egmore"
+      ]
+    },
+    {
+      "busNumber": "P123",
+      "startPoint": "Semmancheri",
+      "endPoint": "Park Town",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Guindy",
+        "Egmore",
+        "Park Town"
+      ]
+    },
+    {
+      "busNumber": "Q456",
+      "startPoint": "Semmancheri",
+      "endPoint": "Thiruvanmiyur",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Guindy",
+        "Teynampet",
+        "Thiruvanmiyur"
+      ]
+    },
+    {
+      "busNumber": "R789",
+      "startPoint": "Semmancheri",
+      "endPoint": "Kotturpuram",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Guindy",
+        "Teynampet",
+        "Thiruvanmiyur",
+        "Kotturpuram"
+      ]
+    },
+    {
+      "busNumber": "S987",
+      "startPoint": "Semmancheri",
+      "endPoint": "Saidapet",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Guindy",
+        "Teynampet",
+        "Thiruvanmiyur",
+        "Kotturpuram",
+        "Saidapet"
+      ]
+    },
+    {
+      "busNumber": "T234",
+      "startPoint": "Semmancheri",
+      "endPoint": "Vadapalani",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Guindy",
+        "Teynampet",
+        "Thiruvanmiyur",
+        "Kotturpuram",
+        "Saidapet",
+        "Vadapalani"
+      ]
+    },
+    {
+      "busNumber": "U567",
+      "startPoint": "Semmancheri",
+      "endPoint": "Mogappair",
+      "routes": [
+        "Sholinganallur",
+        "Navalur",
+        "Perungudi",
+        "OMR",
+        "Taramani",
+        "Velachery",
+        "Guindy",
+        "Teynampet",
+        "Thiruvanmiyur",
+        "Kotturpuram",
+        "Saidapet",
+        "Vadapalani",
+        "Mogappair"
+      ]
+    }
+  ]
+  

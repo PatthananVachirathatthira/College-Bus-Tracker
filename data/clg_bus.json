@@ -1,0 +1,641 @@
+[
+  {
+    "Bus Route": [
+      "Saligramam",
+      "Nandanam Signal",
+      "Venkatnarayana Road",
+      "Panagal Park",
+      "Duraisamy Sub Way",
+      "Brindavanam Street",
+      "WestMambalam",
+      "AVM Signal",
+      "Madhyakailash",
+      "Perungudi"
+    ],
+    "BusNo": 31
+  },
+  {
+    "Bus Route": [
+      "Chinmaya Nagar",
+      "Avichi School",
+      "Meetupalayam",
+      "Seenuvasa Theater",
+      "Kannamapettai",
+      "CIT Nagar",
+      "GurunanakCollege",
+      "Thandeeswaram"
+    ],
+    "BusNo": 41
+  },
+  {
+    "Bus Route": [
+      "Kodambakkam Power House",
+      "B.B.C",
+      "KodambakkamMeenakshi College",
+      "T.Nagar Bus Stand",
+      "CIT Nagar",
+      "Hyundai Show Room",
+      "Saidapet",
+      "Chinnamalai",
+      "Anna University",
+      "I.I.T"
+    ],
+    "BusNo": 14
+  },
+  {
+    "Bus Route": [
+      "7th Avenue Sangam Hotel",
+      "Blue Tank",
+      "Ekkatuthangal",
+      "Taramani",
+      "Perungudi",
+      "Velacherry Bye Pass"
+    ],
+    "BusNo": 29
+  },
+  {
+    "Bus Route": [
+      "Thuraipakkam Toll Gate",
+      "Karapakkam",
+      "PTC",
+      "Mettukuppam",
+      "RRE",
+      "Jain College"
+    ],
+    "BusNo": 68
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur ECR Tollgate",
+      "Ponniyamman Temple",
+      "HPPetrol bunk"
+    ],
+    "BusNo": 90
+  },
+  {
+    "Bus Route": [
+      "Saidapet",
+      "Chinnamalai",
+      "Velacherry Bye Pass",
+      "Baby Nagar",
+      "Taramani",
+      "SRP Tools",
+      "Perungudi",
+      "PTC",
+      "Karapakkam",
+      "OMR"
+    ],
+    "BusNo": 75
+  },
+  {
+    "Bus Route": [
+      "Karapakkam",
+      "Solinganallur",
+      "Ponniyamman Temple",
+      "HPPetrol bunk"
+    ],
+    "BusNo": 77
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur ECR TollGate",
+      "PonniyammanKoil",
+      "Cognizant",
+      "Aavin"
+    ],
+    "BusNo": 71
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur ECR TollGate",
+      "PonniyammanKoil",
+      "Cognizant",
+      "Aavin"
+    ],
+    "BusNo": 70
+  },
+  {
+    "Bus Route": [
+      "Thandeeswaram",
+      "Baby Nagar",
+      "Tansi Nagar",
+      "Taramani",
+      "Perungudi",
+      "Jain College",
+      "Mettukuppam",
+      "Karapakkam",
+      "OMR"
+    ],
+    "BusNo": 43
+  },
+  {
+    "Bus Route": [
+      "Ennore",
+      "Ernavur",
+      "Ajax",
+      "Rajakadai",
+      "Thandayarpet",
+      "Kasimedu",
+      "Kalmandabam"
+    ],
+    "BusNo": 30
+  },
+  {
+    "Bus Route": [
+      "Thiruvotriyur",
+      "Ajax",
+      "Thandayarpet",
+      "Royapuram",
+      "BeachStation",
+      "Parrys Corner"
+    ],
+    "BusNo": 28
+  },
+  {
+    "Bus Route": [
+      "Thandayarpet Mani Koondu",
+      "Appollo Hospital",
+      "Maharani",
+      "Mint",
+      "Santhome",
+      "Pattinambakkam"
+    ],
+    "BusNo": 52
+  },
+  {
+    "Bus Route": [
+      "Thandayarpet Mani Koondu",
+      "Appollo Hospital",
+      "Maharani",
+      "Mint",
+      "Santhome",
+      "Pattinambakkam"
+    ],
+    "BusNo": 27
+  },
+  {
+    "Bus Route": [
+      "Thiruvotriyur",
+      "Ajax",
+      "Thandayarpet",
+      "Royapuram",
+      "BeachStation",
+      "Light House",
+      "Santhome",
+      "Pattinambakkam",
+      "Sathya studio"
+    ],
+    "BusNo": 104
+  },
+  {
+    "Bus Route": [
+      "Thandayarpet Mani Koondu",
+      "Appollo Hospital",
+      "Maharani",
+      "Mint",
+      "Light House",
+      "Santhome",
+      "Pattinambakkam",
+      "MRC Nagar",
+      "ECR"
+    ],
+    "BusNo": 102
+  },
+  {
+    "Bus Route": [
+      "Villivakkam",
+      "Chintharipet",
+      "Annapoorna",
+      "Ice House",
+      "RathnaCafe",
+      "VivekanandarIllam",
+      "Santhome",
+      "Pattinambakkam",
+      "Adyar",
+      "ECR"
+    ],
+    "BusNo": 4
+  },
+  {
+    "Bus Route": [
+      "Villivakkam",
+      "Nadamuni Theater",
+      "Noor Hotel",
+      "Kellys",
+      "Egmore",
+      "Purasaivakkan",
+      "ECR"
+    ],
+    "BusNo": 5
+  },
+  {
+    "Bus Route": [
+      "Valluvarkottam",
+      "Stella Marrys College",
+      "Luz Corner",
+      "Mylapore",
+      "Mandaveli",
+      "Sathya Studio",
+      "Adyar",
+      "Thiruvanmaiyur",
+      "V.G.P",
+      "ECR"
+    ],
+    "BusNo": 7
+  },
+  {
+    "Bus Route": [
+      "Madhavaram Post Office",
+      "Moolakadai",
+      "M.R Nagar",
+      "M.K.BNagar",
+      "Vyasarpadi",
+      "Waltax Road",
+      "Central",
+      "Royapet",
+      "Pattinambakkam",
+      "Santhome",
+      "Adyar",
+      "ECR"
+    ],
+    "BusNo": 9
+  },
+  {
+    "Bus Route": [
+      "Madhavaram Post Office",
+      "Moolakadai",
+      "M.R Nagar",
+      "M.K.BNagar",
+      "Vyasarpadi",
+      "Waltax Road",
+      "Central",
+      "Royapet",
+      "Pattinambakkam",
+      "Santhome",
+      "Adyar",
+      "ECR"
+    ],
+    "BusNo": 10
+  },
+  {
+    "Bus Route": [
+      "AmeerMahal",
+      "Russian Emforce",
+      "Ajantha",
+      "Royapetah",
+      "Santhome",
+      "Pattinambakkam",
+      "Sathya studio",
+      "ECR"
+    ],
+    "BusNo": 58
+  },
+  {
+    "Bus Route": [
+      "Besant Nagar",
+      "Vannathurai",
+      "Thiruvanmiyur",
+      "V.G.P"
+    ],
+    "BusNo": 109
+  },
+  {
+    "Bus Route": [
+      "Uthandi Toll Gate",
+      "Cognizant",
+      "Aavin",
+      "Aloft Hotel",
+      "ECR Toll Gate",
+      "PrathiyankaraKoil",
+      "ECR Water Tank",
+      "Panaiyur"
+    ],
+    "BusNo": 44
+  },
+  {
+    "Bus Route": [
+      "Thiruvanmiyur",
+      "V.G.P"
+    ],
+    "BusNo": 76
+  },
+  {
+    "Bus Route": [
+      "Thiruvanmiyur",
+      "V.G.P"
+    ],
+    "BusNo": 64
+  },
+  {
+    "Bus Route": [
+      "Adyar Telephone Exchange",
+      "Thiruvanmiyur",
+      "Kottivakkam",
+      "V.G.P"
+    ],
+    "BusNo": 88
+  },
+  {
+    "Bus Route": [
+      "Thirunindravur",
+      "Pattabiram",
+      "Jaya College",
+      "Hindu College",
+      "Govarthanagiri",
+      "Nerkundrum",
+      "Maduravoyal",
+      "Koyambedu"
+    ],
+    "BusNo": 1
+  },
+  {
+    "Bus Route": [
+      "Avadi",
+      "Seenarikuppam",
+      "ACS College",
+      "Nerkundram",
+      "Maduravoyul",
+      "Koyambedu",
+      "Vadapalani",
+      "Velacherry Bye pass"
+    ],
+    "BusNo": 65
+  },
+  {
+    "Bus Route": [
+      "Avadi",
+      "AvadiMurugappa Polytechnic",
+      "Thirumullaivoyal",
+      "Ambattur O.T",
+      "Ambattur",
+      "Koyambedu",
+      "MMDA",
+      "Vadapalani"
+    ],
+    "BusNo": 8
+  },
+  {
+    "Bus Route": [
+      "Muthapudupet",
+      "Mugapair West",
+      "Golden Flats",
+      "DAV School",
+      "Krishna Nagar",
+      "Collector Nagar",
+      "Thirumangalam",
+      "Koyambedu",
+      "Velacherry Bye Pass"
+    ],
+    "BusNo": 3
+  },
+  {
+    "Bus Route": [
+      "Mugapair East",
+      "7H Bus Stand",
+      "TNSC Bank",
+      "J.J Nagar PoliceStation",
+      "Collector Nagar",
+      "Thiru Nagar",
+      "Jai Nagar",
+      "Velacherry ByePass"
+    ],
+    "BusNo": 6
+  },
+  {
+    "Bus Route": [
+      "Ambattur",
+      "Mugapair East",
+      "Koyambedu",
+      "MMDA",
+      "Vadapalani",
+      "Ashok Nagar",
+      "Ekkatuthangal",
+      "Velacherry Bye Pass",
+      "OMR"
+    ],
+    "BusNo": 2
+  },
+  {
+    "Bus Route": [
+      "Koyambedu",
+      "MMDA",
+      "Vadapalani",
+      "Ashok Nagar",
+      "Ekkatuthangal",
+      "Velacherry Bye pass"
+    ],
+    "BusNo": 42
+  },
+  {
+    "Bus Route": [
+      "Thiruvallur",
+      "Manavalan Nagar",
+      "Poonamallee",
+      "Kummananchavadi",
+      "Ayyapanthangal",
+      "Ramavaram",
+      "Butt Road"
+    ],
+    "BusNo": 21
+  },
+  {
+    "Bus Route": [
+      "Thiruvallur",
+      "Manavalan Nagar",
+      "Poonamallee",
+      "Kummananchavadi",
+      "Ayyapanthangal",
+      "Ramavaram",
+      "Butt Road"
+    ],
+    "BusNo": 22
+  },
+  {
+    "Bus Route": [
+      "Poonamallee",
+      "Ayyapanthangal",
+      "Karayanchavadi",
+      "Porur Signal",
+      "Mugalivakkam",
+      "Ramavaram",
+      "Butt Road",
+      "Baby Nagar"
+    ],
+    "BusNo": 18
+  },
+  {
+    "Bus Route": [
+      "Poonamallee",
+      "Karayanchavadi",
+      "Porur Signal",
+      "Mugalivakkam",
+      "Velacherry Railway Station",
+      "Thandeeswaram"
+    ],
+    "BusNo": 26
+  },
+  {
+    "Bus Route": [
+      "Porur",
+      "Lakshmi Nagar",
+      "Valasaravakkam",
+      "Alwarthiru Nagar",
+      "Kesavarthini",
+      "Virugambakkam",
+      "Velacherry Bye Pass"
+    ],
+    "BusNo": 46
+  },
+  {
+    "Bus Route": [
+      "K.K.Nagar",
+      "Pondicherry Guest House",
+      "Udayam",
+      "Kasi",
+      "Guindy",
+      "Velacherry Bye Pass",
+      "Thuraipakkam Bye Pass"
+    ],
+    "BusNo": 15
+  },
+  {
+    "Bus Route": [
+      "Periyar Nagar",
+      "Rettari",
+      "Kolathur",
+      "Moogambigai Theater",
+      "AnnaStatue",
+      "Paravalur",
+      "Bhuvaneshwari Theater",
+      "Veppery"
+    ],
+    "BusNo": 11
+  },
+  {
+    "Bus Route": [
+      "Red Hills",
+      "Puzhal",
+      "Camp",
+      "Perambur Railway Station",
+      "PeramburBus Stand",
+      "Aaduthotti",
+      "B.B.Road",
+      "G3 Police Station",
+      "Central"
+    ],
+    "BusNo": 12
+  },
+  {
+    "Bus Route": [
+      "Korattur",
+      "TVS",
+      "Lucas",
+      "Anna Nagar West Depo",
+      "Blue Star",
+      "Shanthi Colony",
+      "Metha Nagar",
+      "Choolaimedu",
+      "Loyala College"
+    ],
+    "BusNo": 25
+  },
+  {
+    "Bus Route": [
+      "Manali",
+      "Blue Star",
+      "Anna Nagar Rountana",
+      "Anna Arch",
+      "ArunHotel",
+      "Shanthi Colony",
+      "Metha Nagar",
+      "Choolaimedu",
+      "Loyala College",
+      "OMR"
+    ],
+    "BusNo": 24
+  },
+  {
+    "Bus Route": [
+      "K 4 Police Station",
+      "Chinthamani",
+      "Chetpet",
+      "SUN TV",
+      "Teynampet",
+      "SIET",
+      "Kotturpuram",
+      "Madhyakailash",
+      "OMR"
+    ],
+    "BusNo": 13
+  },
+  {
+    "Bus Route": [
+      "K.K.Nagar",
+      "Pondicherry Guest House",
+      "Udayam",
+      "Kasi",
+      "Guindy",
+      "Velacherry Bye Pass",
+      "Thuraipakkam Bye Pass"
+    ],
+    "BusNo": 19
+  },
+  {
+    "Bus Route": [
+      "M.K.B Nagar",
+      "Vyasarpadi",
+      "Perambur Bus Stand",
+      "Central",
+      "Shenoy Nagar",
+      "Anna Arch",
+      "Adyar",
+      "Thiruvanmiyur",
+      "Besant Nagar",
+      "Vannathurai"
+    ],
+    "BusNo": 32
+  },
+  {
+    "Bus Route": [
+      "Perambur",
+      "PeramburBarracks",
+      "Moolakadai",
+      "Vyasarpadi",
+      "Thiruvotriyur",
+      "Washermanpet",
+      "Tondiarpet",
+      "Thiruvottiyur"
+    ],
+    "BusNo": 17
+  },
+  {
+    "Bus Route": [
+      "Perambur",
+      "PeramburBarracks",
+      "Moolakadai",
+      "Vyasarpadi",
+      "Thiruvotriyur",
+      "Washermanpet",
+      "Tondiarpet",
+      "Thiruvottiyur"
+    ],
+    "BusNo": 66
+  },
+  {
+    "Bus Route": [
+      "Red Hills",
+      "Puzhal",
+      "Camp",
+      "Perambur",
+      "Central",
+      "Vallalar Nagar",
+      "Vetrrivel Nagar",
+      "Annanagar West Depot",
+      "AyyappanThangal",
+      "Ramavaram",
+      "Baby Nagar",
+      "Thiruvanmiyur"
+    ],
+    "BusNo": 20
+  }
+]
