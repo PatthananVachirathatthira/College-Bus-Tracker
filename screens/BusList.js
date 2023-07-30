@@ -1,31 +1,42 @@
-import React, { useState } from 'react';
-import { View, StyleSheet, Text, ScrollView } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { View, StyleSheet, Text, ScrollView, TouchableOpacity } from 'react-native';
 import { Searchbar, Card } from 'react-native-paper';
-import { useRoute, useNavigation } from '@react-navigation/native';
+import axios from 'axios';
 
-// Sample data for buses
-import buses from '../data/bus.json';
-
-const BusList = () => {
-  const route = useRoute();
-  const navigation = useNavigation();
+const BusList = ({ navigation, route }) => {
   const { selectedLocation } = route.params;
   const [searchQuery, setSearchQuery] = useState('');
+  const [buses, setBuses] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // Fetch data from Firebase Realtime Database
+    const fetchData = async () => {
+      try {
+        const response = await axios.get(
+          process.env.FIREBASE_DB_URL
+        );
+        setBuses(response.data);
+        setLoading(false);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, []);
 
   // Filter buses with the same startPoint, endPoint, and routes as the selected location
   const filteredBuses = buses.filter(
     (bus) =>
-      bus.startPoint === selectedLocation ||
-      bus.endPoint === selectedLocation ||
-      bus.routes.includes(selectedLocation)
+      bus['Bus Route'].includes(selectedLocation)
   );
 
   // Filter buses based on bus number and location queries
   const searchedBuses = filteredBuses.filter((bus) =>
-    bus.busNumber.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    bus.startPoint.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    bus.endPoint.toLowerCase().includes(searchQuery.toLowerCase()) ||
-    bus.routes.some((route) => route.toLowerCase().includes(searchQuery.toLowerCase()))
+    bus['BusNo'].toString().includes(searchQuery) ||
+    bus['Bus Route'].some((route) => route.toLowerCase().includes(searchQuery.toLowerCase()))
   );
 
   const handleSearch = (query) => {
@@ -33,8 +44,17 @@ const BusList = () => {
   };
 
   const handleCardClick = (routes) => {
-    navigation.navigate('RouteMap', { routes: routes });
+    // Handle the navigation to RouteMap with the selected routes
+    navigation.navigate('RouteMap', { routes });
   };
+
+  if (loading) {
+    return (
+      <View style={styles.container}>
+        <Text>Loading...</Text>
+      </View>
+    );
+  }
 
   return (
     <View style={styles.container}>
@@ -48,18 +68,17 @@ const BusList = () => {
       <ScrollView>
         {searchedBuses.length > 0 ? (
           searchedBuses.map((bus) => (
-            <Card
-              key={bus.busNumber}
-              style={styles.busItem}
-              onPress={() => handleCardClick(bus.routes)}
+            <TouchableOpacity
+              key={bus['BusNo']}
+              onPress={() => handleCardClick(bus['Bus Route'])}
             >
-              <Card.Title title={bus.busNumber} />
-              <Card.Content>
-                <Text>Start Point: {bus.startPoint}</Text>
-                <Text>End Point: {bus.endPoint}</Text>
-                <Text>Routes: {bus.routes.join(', ')}</Text>
-              </Card.Content>
-            </Card>
+              <Card style={styles.busItem}>
+                <Card.Title title={`Bus ${bus['BusNo']}`} />
+                <Card.Content>
+                  <Text>Routes: {bus['Bus Route'].join(', ')}</Text>
+                </Card.Content>
+              </Card>
+            </TouchableOpacity>
           ))
         ) : (
           <Text>No buses found for {selectedLocation}</Text>

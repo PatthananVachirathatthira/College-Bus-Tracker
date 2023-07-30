@@ -1,0 +1,1577 @@
+[
+  {
+    "Bus Route": [
+      "Saligramam",
+      "Nandanam Signal",
+      "Venkatnarayana Road",
+      "Panagal Park",
+      "Duraisamy Sub Way",
+      "Brindavanam Street",
+      "West Mambalam",
+      "AVM Signal",
+      "Madhyakailash",
+      "Perungudi"
+    ],
+    "BusNo": 31,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Chinmaya Nagar",
+      "Avichi School",
+      "Meetupalayam",
+      "Seenuvasa Theater",
+      "Kannamapettai",
+      "CIT Nagar",
+      "Gurunanak College",
+      "Thandeeswaram"
+    ],
+    "BusNo": 41,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Kodambakkam Power House",
+      "B.B.C",
+      "KodambakkamMeenakshi College",
+      "T.Nagar Bus Stand",
+      "CIT Nagar",
+      "Hyundai Show Room",
+      "Saidapet",
+      "Chinnamalai",
+      "Anna University",
+      "I.I.T"
+    ],
+    "BusNo": 14,
+    "Available": "False"
+  },
+  {
+    "Bus Route": [
+      "7th Avenue Sangam Hotel",
+      "Blue Tank",
+      "Ekkatuthangal",
+      "Taramani",
+      "Perungudi",
+      "Velacherry Bye Pass"
+    ],
+    "BusNo": 29,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thuraipakkam Toll Gate",
+      "Karapakkam",
+      "PTC",
+      "Mettukuppam",
+      "RRE",
+      "Jain College"
+    ],
+    "BusNo": 68,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur ECR Tollgate",
+      "Ponniyamman Temple",
+      "HPPetrol bunk"
+    ],
+    "BusNo": 90,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Saidapet",
+      "Chinnamalai",
+      "Velacherry Bye Pass",
+      "Baby Nagar",
+      "Taramani",
+      "SRP Tools",
+      "Perungudi",
+      "PTC",
+      "Karapakkam",
+      "OMR"
+    ],
+    "BusNo": 75,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Karapakkam",
+      "Solinganallur",
+      "Ponniyamman Temple",
+      "HPPetrol bunk"
+    ],
+    "BusNo": 77,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur ECR TollGate",
+      "PonniyammanKoil",
+      "Cognizant",
+      "Aavin"
+    ],
+    "BusNo": 71,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur ECR TollGate",
+      "PonniyammanKoil",
+      "Cognizant",
+      "Aavin"
+    ],
+    "BusNo": 70,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thandeeswaram",
+      "Baby Nagar",
+      "Tansi Nagar",
+      "Taramani",
+      "Perungudi",
+      "Jain College",
+      "Mettukuppam",
+      "Karapakkam",
+      "OMR"
+    ],
+    "BusNo": 43,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ennore",
+      "Ernavur",
+      "Ajax",
+      "Rajakadai",
+      "Thandayarpet",
+      "Kasimedu",
+      "Kalmandabam"
+    ],
+    "BusNo": 30,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruvotriyur",
+      "Ajax",
+      "Thandayarpet",
+      "Royapuram",
+      "BeachStation",
+      "Parrys Corner"
+    ],
+    "BusNo": 28,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thandayarpet Mani Koondu",
+      "Appollo Hospital",
+      "Maharani",
+      "Mint",
+      "Santhome",
+      "Pattinambakkam"
+    ],
+    "BusNo": 52,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thandayarpet Mani Koondu",
+      "Appollo Hospital",
+      "Maharani",
+      "Mint",
+      "Santhome",
+      "Pattinambakkam"
+    ],
+    "BusNo": 27,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruvotriyur",
+      "Ajax",
+      "Thandayarpet",
+      "Royapuram",
+      "BeachStation",
+      "Light House",
+      "Santhome",
+      "Pattinambakkam",
+      "Sathya studio"
+    ],
+    "BusNo": 104,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thandayarpet Mani Koondu",
+      "Appollo Hospital",
+      "Maharani",
+      "Mint",
+      "Light House",
+      "Santhome",
+      "Pattinambakkam",
+      "MRC Nagar",
+      "ECR"
+    ],
+    "BusNo": 102,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Villivakkam",
+      "Chintharipet",
+      "Annapoorna",
+      "Ice House",
+      "RathnaCafe",
+      "VivekanandarIllam",
+      "Santhome",
+      "Pattinambakkam",
+      "Adyar",
+      "ECR"
+    ],
+    "BusNo": 4,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Villivakkam",
+      "Nadamuni Theater",
+      "Noor Hotel",
+      "Kellys",
+      "Egmore",
+      "Purasaivakkan",
+      "ECR"
+    ],
+    "BusNo": 5,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Valluvarkottam",
+      "Stella Marrys College",
+      "Luz Corner",
+      "Mylapore",
+      "Mandaveli",
+      "Sathya Studio",
+      "Adyar",
+      "Thiruvanmaiyur",
+      "V.G.P",
+      "ECR"
+    ],
+    "BusNo": 7,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Madhavaram Post Office",
+      "Moolakadai",
+      "M.R Nagar",
+      "M.K.BNagar",
+      "Vyasarpadi",
+      "Waltax Road",
+      "Central",
+      "Royapet",
+      "Pattinambakkam",
+      "Santhome",
+      "Adyar",
+      "ECR"
+    ],
+    "BusNo": 9,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Madhavaram Post Office",
+      "Moolakadai",
+      "M.R Nagar",
+      "M.K.BNagar",
+      "Vyasarpadi",
+      "Waltax Road",
+      "Central",
+      "Royapet",
+      "Pattinambakkam",
+      "Santhome",
+      "Adyar",
+      "ECR"
+    ],
+    "BusNo": 10,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "AmeerMahal",
+      "Russian Emforce",
+      "Ajantha",
+      "Royapetah",
+      "Santhome",
+      "Pattinambakkam",
+      "Sathya studio",
+      "ECR"
+    ],
+    "BusNo": 58,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Besant Nagar", "Vannathurai", "Thiruvanmiyur", "V.G.P"],
+    "BusNo": 109,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Uthandi Toll Gate",
+      "Cognizant",
+      "Aavin",
+      "Aloft Hotel",
+      "ECR Toll Gate",
+      "PrathiyankaraKoil",
+      "ECR Water Tank",
+      "Panaiyur"
+    ],
+    "BusNo": 44,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Thiruvanmiyur", "V.G.P"],
+    "BusNo": 76,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Thiruvanmiyur", "V.G.P"],
+    "BusNo": 64,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Adyar Telephone Exchange",
+      "Thiruvanmiyur",
+      "Kottivakkam",
+      "V.G.P"
+    ],
+    "BusNo": 88,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thirunindravur",
+      "Pattabiram",
+      "Jaya College",
+      "Hindu College",
+      "Govarthanagiri",
+      "Nerkundrum",
+      "Maduravoyal",
+      "Koyambedu"
+    ],
+    "BusNo": 1,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Avadi",
+      "Seenarikuppam",
+      "ACS College",
+      "Nerkundram",
+      "Maduravoyul",
+      "Koyambedu",
+      "Vadapalani",
+      "Velacherry Bye pass"
+    ],
+    "BusNo": 65,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Avadi",
+      "AvadiMurugappa Polytechnic",
+      "Thirumullaivoyal",
+      "Ambattur O.T",
+      "Ambattur",
+      "Koyambedu",
+      "MMDA",
+      "Vadapalani"
+    ],
+    "BusNo": 8,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Muthapudupet",
+      "Mugapair West",
+      "Golden Flats",
+      "DAV School",
+      "Krishna Nagar",
+      "Collector Nagar",
+      "Thirumangalam",
+      "Koyambedu",
+      "Velacherry Bye Pass"
+    ],
+    "BusNo": 3,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Mugapair East",
+      "7H Bus Stand",
+      "TNSC Bank",
+      "J.J Nagar PoliceStation",
+      "Collector Nagar",
+      "Thiru Nagar",
+      "Jai Nagar",
+      "Velacherry ByePass"
+    ],
+    "BusNo": 6,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ambattur",
+      "Mugapair East",
+      "Koyambedu",
+      "MMDA",
+      "Vadapalani",
+      "Ashok Nagar",
+      "Ekkatuthangal",
+      "Velacherry Bye Pass",
+      "OMR"
+    ],
+    "BusNo": 2,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Koyambedu",
+      "MMDA",
+      "Vadapalani",
+      "Ashok Nagar",
+      "Ekkatuthangal",
+      "Velacherry Bye pass"
+    ],
+    "BusNo": 42,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruvallur",
+      "Manavalan Nagar",
+      "Poonamallee",
+      "Kummananchavadi",
+      "Ayyapanthangal",
+      "Ramavaram",
+      "Butt Road"
+    ],
+    "BusNo": 21,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruvallur",
+      "Manavalan Nagar",
+      "Poonamallee",
+      "Kummananchavadi",
+      "Ayyapanthangal",
+      "Ramavaram",
+      "Butt Road"
+    ],
+    "BusNo": 22,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Poonamallee",
+      "Ayyapanthangal",
+      "Karayanchavadi",
+      "Porur Signal",
+      "Mugalivakkam",
+      "Ramavaram",
+      "Butt Road",
+      "Baby Nagar"
+    ],
+    "BusNo": 18,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Poonamallee",
+      "Karayanchavadi",
+      "Porur Signal",
+      "Mugalivakkam",
+      "Velacherry Railway Station",
+      "Thandeeswaram"
+    ],
+    "BusNo": 26,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Porur",
+      "Lakshmi Nagar",
+      "Valasaravakkam",
+      "Alwarthiru Nagar",
+      "Kesavarthini",
+      "Virugambakkam",
+      "Velacherry Bye Pass"
+    ],
+    "BusNo": 46,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "K.K.Nagar",
+      "Pondicherry Guest House",
+      "Udayam",
+      "Kasi",
+      "Guindy",
+      "Velacherry Bye Pass",
+      "Thuraipakkam Bye Pass"
+    ],
+    "BusNo": 15,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Periyar Nagar",
+      "Rettari",
+      "Kolathur",
+      "Moogambigai Theater",
+      "Anna Statue",
+      "Paravalur",
+      "Bhuvaneshwari Theater",
+      "Veppery"
+    ],
+    "BusNo": 11,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Red Hills",
+      "Puzhal",
+      "Camp",
+      "Perambur Railway Station",
+      "Perambur Bus Stand",
+      "Aaduthotti",
+      "B.B.Road",
+      "G3 Police Station",
+      "Central"
+    ],
+    "BusNo": 12,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Korattur",
+      "TVS",
+      "Lucas",
+      "Anna Nagar West Depo",
+      "Blue Star",
+      "Shanthi Colony",
+      "Metha Nagar",
+      "Choolaimedu",
+      "Loyala College"
+    ],
+    "BusNo": 25,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Manali",
+      "Blue Star",
+      "Anna Nagar Rountana",
+      "Anna Arch",
+      "Arun Hotel",
+      "Shanthi Colony",
+      "Metha Nagar",
+      "Choolaimedu",
+      "Loyala College",
+      "OMR"
+    ],
+    "BusNo": 24,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "K 4 Police Station",
+      "Chinthamani",
+      "Chetpet",
+      "SUN TV",
+      "Teynampet",
+      "SIET",
+      "Kotturpuram",
+      "Madhyakailash",
+      "OMR"
+    ],
+    "BusNo": 23,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Kancheepuram",
+      "Walajabath",
+      "Mannivakkam",
+      "Oragadam",
+      "Padapai",
+      "Kelambakkam",
+      "Mambakkam"
+    ],
+    "BusNo": 53,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sriperumbathur",
+      "Puspagiri",
+      "Manimangalam",
+      "Mudichur",
+      "Atta company",
+      "Tambaram MCC",
+      "Camp Road"
+    ],
+    "BusNo": 55,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Mangadu",
+      "Kundrathur",
+      "Pammal",
+      "Pallavaram",
+      "Chrompet",
+      "Tambaram West Depo",
+      "MCC",
+      "Camp Road",
+      "Medavakkam",
+      "Perumbakkam"
+    ],
+    "BusNo": 56,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Kundrathur",
+      "Pammal",
+      "Pallavaram",
+      "Chitlapakkam",
+      "Selaiyur Police Station",
+      "Camproad",
+      "Mahalakshmi Nagar",
+      "Rajakilpakkam",
+      "Kamarajapuram"
+    ],
+    "BusNo": 61,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ramapuram",
+      "Pallavaram",
+      "Hasthinapuram",
+      "Chitlapakkam",
+      "Selaiyur Police Station",
+      "Camproad",
+      "Mahalakshmi Nagar",
+      "Rajakilpakkam",
+      "Kamarajapuram"
+    ],
+    "BusNo": 34,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Mudichur",
+      "Tambaram",
+      "Camproad",
+      "Medavakkam",
+      "Perumbakkam"
+    ],
+    "BusNo": 79,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Mappedu",
+      "Bharath University",
+      "Kamarajapuram",
+      "Mahalakshmi Nagar",
+      "Camproad"
+    ],
+    "BusNo": 47,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Madambakkam",
+      "KozhiPannai",
+      "Rajakilpakkam",
+      "New Prince College",
+      "IM Gear company",
+      "Puthukovil",
+      "Perumbakkam"
+    ],
+    "BusNo": 48,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Bharath University",
+      "Kamarajapuram",
+      "Mahalakshmi Nagar",
+      "Camproad"
+    ],
+    "BusNo": 112,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Nangnallur Sub Way",
+      "Oil Mill",
+      "Vanuvanpettai Church",
+      "Kaiveli"
+    ],
+    "BusNo": 45,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Axis Bank",
+      "Kilkattalai",
+      "Ganesh Nagar",
+      "S.kolathur",
+      "Kamatchi Hospital",
+      "Chennai one",
+      "PTC"
+    ],
+    "BusNo": 51,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ramavaram",
+      "Butt Road",
+      "Meenambakkam",
+      "Pallavaram",
+      "Vels College",
+      "Echankadu Signal",
+      "Medavakkam",
+      "Koot Road"
+    ],
+    "BusNo": 17,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "IM Gear Company",
+      "Santhoshpuram",
+      "Medavakkam",
+      "Koot Road",
+      "Medavakkam",
+      "Perumbakkam",
+      "Global",
+      "HCL",
+      "Solinganallur"
+    ],
+    "BusNo": 16,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Axis Bank",
+      "Kaiveli",
+      "Ram Nagar",
+      "Sadasivam Nagar",
+      "Madipakkam",
+      "Kumaran Theater",
+      "Pallikaranai"
+    ],
+    "BusNo": 94,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thillai Ganga Nagar",
+      "Pallikaranai",
+      "Narayanapuram",
+      "Balaji Dental College",
+      "Medavakkam"
+    ],
+    "BusNo": 66,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "N.G.O COLONY",
+      "Brindavan Nagar",
+      "Velacherry Railway Station",
+      "Thuraipakkam",
+      "PTC",
+      "Karapakkam"
+    ],
+    "BusNo": 13,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Kancheepuram",
+      "Walajabath",
+      "Mannivakkam",
+      "Oragadam",
+      "Padapai",
+      "Vandalore",
+      "Mambakkam",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 54,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Chengalpet",
+      "Paranur",
+      "S.P.Kovil",
+      "M.M Nagar",
+      "SRM",
+      "Guduvancherry",
+      "Vandalore",
+      "Mambakkam",
+      "Kelambakkam"
+    ],
+    "BusNo": 20,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Chengalpet",
+      "Paranur",
+      "S.P.Kovil",
+      "M.M Nagar",
+      "SRM",
+      "Guduvancherry",
+      "Vandalore",
+      "Mambakkam",
+      "Kelambakkam"
+    ],
+    "BusNo": 40,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Guduvancherry",
+      "Urabakkam",
+      "Vandalore",
+      "Kolabakkam",
+      "Mambakkam",
+      "Kelambakkam",
+      "Padur"
+    ],
+    "BusNo": 19,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Kalpakkam",
+      "Kalpakkam Ladies Hostel",
+      "Satras Gate",
+      "Vengambakkam",
+      "Thiruporur"
+    ],
+    "BusNo": 37,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Kalpakkam",
+      "Anupuram",
+      "PRB Gate",
+      "Payyanur",
+      "Alathur",
+      "Ellalur",
+      "Poonjeri Toll Gate",
+      "Thiruporur",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 39,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thirukazhukumdrum",
+      "Mahabalipuram",
+      "Deveneri",
+      "Therkupattu",
+      "Thiruvidanthai",
+      "Pattipulam",
+      "Vadanemmeli",
+      "Perur",
+      "Kovalam"
+    ],
+    "BusNo": 36,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruporur",
+      "VijayaShanthiAppartments",
+      "Kalavakkam",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 33,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruporur",
+      "VijayaShanthiAppartments",
+      "Kalavakkam",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 62,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Kalpakkam",
+      "Kalpakkam Ladies Hostel",
+      "Satras Gate",
+      "Kovalam",
+      "Mahabalipuram"
+    ],
+    "BusNo": 67,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Kelambakkam", "Padur", "Navalur", "Ags"],
+    "BusNo": 35,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Kelambakkam", "Padur"],
+    "BusNo": 80,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruporur",
+      "VijayaShanthiAppartments",
+      "Kalavakkam",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 60,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "PerungudiToll Gate",
+      "Karapakkam",
+      "PTC",
+      "Mettukuppam",
+      "RRE",
+      "Jain College"
+    ],
+    "BusNo": 114,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thuraipakkam Toll Gate",
+      "Karapakkam",
+      "PTC",
+      "Mettukuppam",
+      "RRE",
+      "Jain College"
+    ],
+    "BusNo": 95,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Karapakkam", "Solinganallur", "Ponniyamman Temple"],
+    "BusNo": 86,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Thalambur", "Navalur", "AGS", "Semmencherry", "Alamaram"],
+    "BusNo": 78,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Agni College",
+      "Thalambur",
+      "Navalur",
+      "AGS",
+      "Semmencherry",
+      "Alamaram"
+    ],
+    "BusNo": 32,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ottiyambakkam",
+      "Sithalapakkam",
+      "Sankarapuram",
+      "Jaya Nagar",
+      "Sithalapakkam",
+      "Koot Road",
+      "Sowmiya Nagar",
+      "Babu Nagar",
+      "Medavakkam",
+      "Pudu Nagar",
+      "Global"
+    ],
+    "BusNo": 49,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "DLF Garden City Appartments",
+      "Nest Appartments",
+      "Kumaran Nagar Petrol"
+    ],
+    "BusNo": 50,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Bollini Hillside Appartment",
+      "Nest Apartment",
+      "Kumaran Nagar"
+    ],
+    "BusNo": 81,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "DLF Garden City Appartments",
+      "Nest Appartments",
+      "Kumaran Nagar Petrol"
+    ],
+    "BusNo": 91,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Karapakkam", "Solinganallur", "Ponniyamman Temple"],
+    "BusNo": 92,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Moolakadai",
+      "Perambur",
+      "Auduthotti",
+      "Purasaiwakkam",
+      "Triplecane",
+      "Light House",
+      "Santhome",
+      "Pattinambakkam",
+      "Adyar"
+    ],
+    "BusNo": 74,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur",
+      "Ponniyamman Temple",
+      "HP Petrol bunk",
+      "Kumaran Nagar"
+    ],
+    "BusNo": 83,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur",
+      "Ponniyamman Temple",
+      "HP Petrol bunk",
+      "Kumaran Nagar"
+    ],
+    "BusNo": 38,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Pudubakkam", "Navalur", "AGS", "Semmencherry", "Alamaram"],
+    "BusNo": 82,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruporur",
+      "VijayaShanthiAppartments",
+      "Kalavakkam",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 107,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Karapakkam",
+      "Solinganallur",
+      "Ponniyamman Temple",
+      "HP Petrol bunk",
+      "Kumaran Nagar"
+    ],
+    "BusNo": 73,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Sholinganallur", "Ponniyamman Temple", "HP Petrol bunk"],
+    "BusNo": 96,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur",
+      "Ponniyamman Temple",
+      "HP Petrol bunk",
+      "Kumaran Nagar"
+    ],
+    "BusNo": 119,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Sholinganallur",
+      "Ponniyamman Temple",
+      "HP Petrol bunk",
+      "Kumaran Nagar"
+    ],
+    "BusNo": 103,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Kelambakkam", "Padur", "Navalur"],
+    "BusNo": 87,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ramapuram",
+      "Pallavaram",
+      "Chrompet",
+      "Tambaram",
+      "Selaiyur Police Station",
+      "Camproad",
+      "Mahalakshmi Nagar",
+      "Rajakilpakkam"
+    ],
+    "BusNo": 101,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Echankadu Signal",
+      "Kovilambakkam",
+      "Medavakkam",
+      "Koot Road",
+      "Perumbakkam"
+    ],
+    "BusNo": 59,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Vinayagapuram",
+      "Senthil Nagar",
+      "Metha nagar",
+      "Purasaivakkam",
+      "Egmore",
+      "Mandaveli",
+      "Mylapore",
+      "Adyar",
+      "ECR"
+    ],
+    "BusNo": 100,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Walajabath",
+      "Padapai",
+      "Mannivakkam",
+      "Vandalore",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 111,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Vandalore",
+      "Perungulathore",
+      "Irumpuliyur",
+      "Tambaram",
+      "Camproad",
+      "Medavakkam"
+    ],
+    "BusNo": 108,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Porur",
+      "K.K.Nagar",
+      "Pondicherry Guest House",
+      "Virugambakkam",
+      "Kesavarthini",
+      "Alwarthiru Nagar",
+      "Valasaravakkam",
+      "Lakshmi Nagar",
+      "Velacherry bye pass",
+      "Baby Nagar",
+      "Taramani",
+      "Perungudi",
+      "Thoraipakkam",
+      "PTC",
+      "Karapakkam"
+    ],
+    "BusNo": 72,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Chengalpattu",
+      "Thiruporur Koot Road",
+      "Thiruvadisoolam",
+      "Mullibakkam",
+      "Karumbakkam",
+      "Kottamedu",
+      "Thiruporur"
+    ],
+    "BusNo": 113,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Guduvancherry",
+      "Urabakkam",
+      "Vandalore",
+      "Kolabakkam",
+      "Mambakkam",
+      "Kelambakkam",
+      "Padur"
+    ],
+    "BusNo": 98,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Mamallapuram",
+      "Anupuram",
+      "Therkupattu",
+      "Kovalam",
+      "Padur"
+    ],
+    "BusNo": 99,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Madhavaram",
+      "M.R.Nagar",
+      "Waltax Road",
+      "Central",
+      "Light House",
+      "Thiruvanmiyur",
+      "ECR"
+    ],
+    "BusNo": 117,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Koyambedu",
+      "Vadapalani",
+      "Ekattuthangal",
+      "Guindy",
+      "Velacherry Bye pass"
+    ],
+    "BusNo": 118,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ramapuram",
+      "Nanganallur Subway",
+      "Canara bank",
+      "J.K.mahal",
+      "Kilkattalai",
+      "S.Kolathur",
+      "Thoraipakkam",
+      "OMR"
+    ],
+    "BusNo": 115,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ramapuram",
+      "Butt road",
+      "Guindy",
+      "Velacherry Check post",
+      "Baby Nagar",
+      "SRP Tools",
+      "Perungudi",
+      "PTC",
+      "Karapakkam",
+      "OMR"
+    ],
+    "BusNo": 116,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Red Hills",
+      "Puzhal",
+      "Camp",
+      "Perambur Railway Station",
+      "Perambur Bus Stand",
+      "Aaduthotti",
+      "B.B.Road",
+      "G3 Police Station",
+      "Central"
+    ],
+    "BusNo": 110,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Villivakkam",
+      "Nadamuni Theater",
+      "Noor Hotel",
+      "Kellys",
+      "Egmore",
+      "Purasaivakkam",
+      "ECR"
+    ],
+    "BusNo": 106,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "N.G.O COLONY",
+      "Brindavan Nagar",
+      "Velacherry Railway Station",
+      "Thuraipakkam",
+      "PTC",
+      "Karapakkam"
+    ],
+    "BusNo": 89,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Axis Bank",
+      "Kaiveli",
+      "Ram Nagar",
+      "Sadasivam Nagar",
+      "Madipakkam",
+      "Kumaran Theater",
+      "Chennai1",
+      "Jain College"
+    ],
+    "BusNo": 84,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Thiruvanmiyur", "V.G.P"],
+    "BusNo": 57,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Chengalpet",
+      "Kottamedu",
+      "Sembakkam",
+      "Thiruporur",
+      "Kelambakkam"
+    ],
+    "BusNo": 120,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Avadi",
+      "Ambattur",
+      "Maduravoyul",
+      "Koyambedu",
+      "Vadapalani",
+      "Guindy",
+      "Velacherry Bye pass"
+    ],
+    "BusNo": 97,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Camproad",
+      "Sembakkam",
+      "Medavakkam koot road",
+      "Perumbakkam",
+      "Global"
+    ],
+    "BusNo": 93,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Vandalore",
+      "Perungulathore",
+      "Irrumpuliyur",
+      "Tambaram",
+      "Camproad"
+    ],
+    "BusNo": 105,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Thiruvotriyuur",
+      "Kalmandabam",
+      "Royapuram",
+      "Beach Station",
+      "Kannagi statue",
+      "Light house",
+      "Santhome",
+      "Pattinambakkam",
+      "MRC Nagar",
+      "ECR"
+    ],
+    "BusNo": 130,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "T.Nagar Bus stand",
+      "Saidapet",
+      "Little mount",
+      "Anna University",
+      "IIT",
+      "Mathyakailash",
+      "Perungudi",
+      "OMR"
+    ],
+    "BusNo": 124,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Avadi",
+      "Ambattur",
+      "Thirumangalam",
+      "Koyambedu",
+      "Vadapalani",
+      "Ashok pillar",
+      "T.G.Nagar subway"
+    ],
+    "BusNo": 128,
+    "Available": "True"
+  },
+  {
+    "Bus Route": ["Mudichur", "Tambaram", "Selaiyur", "Camproad", "Medavakkam"],
+    "BusNo": 125,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "DMS",
+      "Tynampet",
+      "Kotturpuram",
+      "IIT",
+      "Madhyakailash",
+      "Tidel park",
+      "SRP Tools",
+      "Kandhanchavadi",
+      "Perungudi",
+      "Karapakkam"
+    ],
+    "BusNo": 123,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Ramapuram",
+      "Butt road",
+      "Guindy",
+      "Velacherry bye pass",
+      "GRT",
+      "Petrol bunk",
+      "Vijaya nagar",
+      "Baby nagar",
+      "Taramani",
+      "Perungudi"
+    ],
+    "BusNo": 121,
+    "Available": "True"
+  },
+  {
+    "Bus Route": [
+      "Poonjeri toll gate",
+      "Thiruporur",
+      "Kalavakkam",
+      "Kelambakkam",
+      "Padur",
+      "Navalur"
+    ],
+    "BusNo": 129,
+    "Available": "False"
+  },
+  {
+    "Bus Route": [
+      "Poonamallee",
+      "Karainchavadi",
+      "Porur",
+      "Ramapuram",
+      "Butt Road",
+      "Guindy",
+      "Velacherry thandeeswaram",
+      "Chennai one"
+    ],
+    "BusNo": 122,
+    "Available": "False"
+  },
+  {
+    "Bus Route": [
+      "Anakaputhur",
+      "Pammal",
+      "Puthukoil",
+      "Pallavaram",
+      "Chrompet",
+      "Sanatorium",
+      "Tambaram",
+      "Camproad",
+      "Santhoshpuram"
+    ],
+    "BusNo": 126,
+    "Available": "False"
+  },
+  {
+    "Bus Route": [
+      "Mandaveli",
+      "Mylapore",
+      "Sathya Studio",
+      "Adyar Hospital",
+      "Adyar Depo",
+      "Thiruvanmiyur",
+      "Palavakkam",
+      "Neelankarai",
+      "V.G.P",
+      "ECR"
+    ],
+    "BusNo": 127,
+    "Available": "False"
+  }
+]

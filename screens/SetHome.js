@@ -1,55 +1,83 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, StyleSheet, Text } from 'react-native';
-import { Menu } from 'react-native-paper';
-
-const locations = [
-  "Tambaram",
-  "Nanganallur",
-  "Tillaiganga Nagar",
-  "St Mount",
-  "Guindy",
-  "Ekkaduthangal",
-  "Kotturpuram",
-  "Perumbakkam",
-  "Chrompet",
-  "Mogappair"
-];
+import { Searchbar } from 'react-native-paper';
+import axios from 'axios';
 
 const SetHome = ({ navigation }) => {
   const [selectedLocation, setSelectedLocation] = useState('');
-  const [isMenuVisible, setIsMenuVisible] = useState(false);
+  const [isSearchbarFocused, setSearchbarFocused] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [locations, setLocations] = useState([]);
+
+  useEffect(() => {
+    // Fetch data from Firebase Realtime Database
+    const fetchData = async () => {
+      try {
+        const response = await axios.get(
+          process.env.FIREBASE_DB_URL
+        );
+        const allRoutes = response.data.reduce((acc, bus) => {
+          // Merge all routes into a single array
+          return [...acc, ...bus['Bus Route']];
+        }, []);
+        // Remove duplicates and sort the routes alphabetically
+        const uniqueSortedLocations = [...new Set(allRoutes)].sort();
+        setLocations(uniqueSortedLocations);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+
+    fetchData();
+  }, []);
 
   const handleLocationSelect = (location) => {
     setSelectedLocation(location);
-    setIsMenuVisible(false);
+    setSearchbarFocused(false);
 
     // Redirect to BusList screen with the selected location
     navigation.navigate('BusList', { selectedLocation: location });
   };
 
+  const handleSearch = (query) => {
+    setSearchQuery(query);
+    setSearchbarFocused(true);
+  };
+
+  const handleClear = () => {
+    setSearchQuery('');
+  };
+
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Set your home location</Text>
-      <Menu style={styles.menu}
-        visible={isMenuVisible}
-        onDismiss={() => setIsMenuVisible(false)}
-        anchor={
-          <Text style={styles.locationText} onPress={() => setIsMenuVisible(true)}>
-            {selectedLocation ? selectedLocation : "Select location"}
-          </Text>
-        }
-      >
-        {locations.map((location, index) => (
-          <Menu.Item
-            key={index}
-            title={location}
-            onPress={() => handleLocationSelect(location)}
-          />
-        ))}
-      </Menu>
-      {selectedLocation ? (
+      <Text style={styles.title}>Select your destination</Text>
+      <Searchbar
+        placeholder="Search location"
+        onChangeText={handleSearch}
+        value={searchQuery}
+        onIconPress={handleClear}
+        style={styles.searchBar}
+      />
+      {isSearchbarFocused && (
+        <View style={styles.dropdownContainer}>
+          {locations
+            .filter((location) =>
+              location.toLowerCase().includes(searchQuery.toLowerCase())
+            )
+            .map((location, index) => (
+              <Text
+                key={index}
+                style={styles.dropdownItem}
+                onPress={() => handleLocationSelect(location)}
+              >
+                {location}
+              </Text>
+            ))}
+        </View>
+      )}
+      {/* {selectedLocation ? (
         <Text style={styles.selectedLocation}>Selected location: {selectedLocation}</Text>
-      ) : null}
+      ) : null} */}
     </View>
   );
 };
@@ -67,19 +95,21 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginBottom: 16,
   },
-  menu: {
-    width: '80%',
-    marginLeft: '5%',
-  },
-  locationText: {
+  searchBar: {
     marginBottom: 16,
-    fontSize: 16,
+  },
+  dropdownContainer: {
+    backgroundColor: 'white',
     borderRadius: 8,
     borderColor: 'gray',
     borderWidth: 1,
-    paddingHorizontal: 10,
-    paddingVertical: 8,
-    backgroundColor: 'white',
+    marginTop: 4,
+    maxHeight: 150,
+    overflow: 'hidden',
+  },
+  dropdownItem: {
+    padding: 10,
+    fontSize: 16,
   },
   selectedLocation: {
     fontSize: 16,

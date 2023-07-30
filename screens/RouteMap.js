@@ -14,15 +14,17 @@ const RouteMap = ({ route }) => {
       try {
         const allRoutes = [];
         for (const address of routes) {
-          const response = await axios.get(`https://geocode.maps.co/search?q=${address} chennai`);
+          const response = await axios.get(`https://geocode.maps.co/search?q=${address},Chennai,Tamilnadu,India`);
           const data = response.data;
           const lat = parseFloat(data[0]?.lat);
           const lon = parseFloat(data[0]?.lon);
 
-          if (!isNaN(lat) && !isNaN(lon)) {
+          // Check if the location is within Chennai (approximately)
+          // You can adjust the latitude and longitude bounds based on your specific area requirements
+          if (lat >= 12.70 && lat <= 13.10 && lon >= 80.15 && lon <= 80.30) {
             allRoutes.push({ latitude: lat, longitude: lon, address }); // Include the address in the route object
           } else {
-            console.log('Invalid latitude or longitude:', data[0]?.lat, data[0]?.lon);
+            console.log('Invalid latitude or longitude for location:', address);
           }
         }
 
@@ -71,7 +73,7 @@ const RouteMap = ({ route }) => {
           }}
         >
           {routes.map((coordinate, index) => (
-            <Marker key={index} coordinate={coordinate} title={`Route ${index + 1}`} />
+            <Marker key={index} coordinate={coordinate} title={`Stop ${index + 1}`} />
           ))}
           {routes.length > 1 && (
             <Polyline coordinates={routes} strokeColor="#000" strokeWidth={2} />
